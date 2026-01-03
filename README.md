@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on<br>Data Science projects, Java DSA & real-world analytics<br>Looking to collaborate on<br>ML, Data Science, Java & open-source projects<br>Looking for help with<br>Advanced ML/DL & real-world project ideas<br>Currently learning<br>ML & DL • Big Data • Java DSA • Cloud basics<br>Ask me about<br>Java • Data Science • SQL • Internships<br>Fun fact<br>I love simplifying complex tech & learning every day
+Currently working on - <br>Data Science projects, Java DSA & real-world analytics<br>Looking to collaborate on - <br>ML, Data Science, Java & open-source projects<br>Looking for help with - <br>Advanced ML/DL & real-world project ideas<br>Currently learning - <br>ML & DL • Big Data • Java DSA • Cloud basics<br>Ask me about - <br>Java • Data Science • SQL • Internships<br>Fun fact - <br>I love simplifying complex tech & learning every day
 
 
 ## 🌐 Socials:
